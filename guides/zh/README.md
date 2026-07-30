@@ -35,7 +35,7 @@
 | S06 | Subagent | [用全新上下文隔离子任务](s06-subagent.md) | 已完成 |
 | S07 | Skill Loading | [让知识在需要时才进入上下文](s07-skill-loading.md) | 已完成 |
 | S08 | Context Compact | [用分层压缩延长 Agent 会话](s08-context-compact.md) | 已完成 |
-| S09 | Memory | 待编写 | 待开始 |
+| S09 | Memory | [把长期知识移出易失上下文](s09-memory.md) | 已完成 |
 | S10 | System Prompt | 待编写 | 待开始 |
 | S11 | Error Recovery | 待编写 | 待开始 |
 | S12 | Task System | 待编写 | 待开始 |
